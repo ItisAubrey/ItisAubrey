@@ -1,4 +1,4 @@
-### Hi there, I'm Bilige 👋
+### Hi there, I'm Bileg 👋
 
 
 - 🔭 Data Scientist, I'm currently working on Fraud Detection Tasks
