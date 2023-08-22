@@ -1,9 +1,5 @@
 ### Hi there, I'm Bilige 👋
 
-<!--
-**ItisAubrey/ItisAubrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 - 🔭 Data Scientist 
 - 🌱 MSc in Statistics and Data Sciente at [KULeuven]([https://www.pku.edu.cn](https://www.kuleuven.be/kuleuven))
