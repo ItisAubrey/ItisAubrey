@@ -1,9 +1,9 @@
-### Hi there, I'm Bileg 👋
+### Hi there, I'm Bilige Wuyun (Oyunbileg) 👋
 
 
-- 🔭 Data Scientist, I'm currently working on Fraud Detection Tasks
+- 🔭 Data Scientist 
 - 🌱 MSc in Statistics and Data Science at [KULeuven](https://www.kuleuven.be/kuleuven)
-- ⚡ Python/R
-- 🤔 Data Science/ Data Analysis/ Data Management/ Machine Learning
-- 🏃 Running/ Yoga / Gym / Reading
+- ⚡ Python/R/ Matlab
+- 🤔 Data Science/ Data Analysis/ MLOps 
+- 🏃 Running/ Yoga / Gym / Reading / Painting 
 - 📫 Emai me at :oyunbilegolkhnuud@gmail.com
