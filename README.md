@@ -3,7 +3,7 @@
 
 - 🔭 Data Scientist 
 - 🌱 MSc in Statistics and Data Science at [KULeuven](https://www.kuleuven.be/kuleuven)
-- ⚡ Python/R/ Matlab
+- ⚡ Python/R/ Matlab/SQL
 - 🤔 Data Science/ Data Analysis/ MLOps 
 - 🏃 Running/ Yoga / Gym / Reading / Painting 
 - 📫 Emai me at :oyunbilegolkhnuud@gmail.com
